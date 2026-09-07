@@ -8,3 +8,4 @@ I am learning GitHub.
 this line was added directly on github
 About page is coming.
 contact page is comming
+The homepage was updated.
