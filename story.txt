@@ -10,4 +10,5 @@ About page is coming.
 contact page is comming
 The homepage was updated.
 Payment feature is in progress.
+Email feature started.
 
